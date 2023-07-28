@@ -1,0 +1,13 @@
+# Global remove options
+*.iml
+.gradle
+local.properties
+.idea/
+.DS_Store
+/build
+/captures
+/externalNativeBuild
+/cxx
+
+# Add any other specific rules or exceptions below this line if needed
+
